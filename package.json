@@ -2,5 +2,8 @@
   "name": "common-jest-preset",
   "version": "1.0.0",
   "description": "common jest preset for node-modules group",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
+  }
 }
